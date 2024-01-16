@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nrheo
-- 👀 I’m interested in machine learning, software engineer, and data science.
+- 👀 I’m interested in machine learning, software development, and data engineering.
 - 🌱 I’m currently studying mathematics and computer science at university and will graduate in 2024.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am an audio engineer in a band! I record, mix, and produce music.
